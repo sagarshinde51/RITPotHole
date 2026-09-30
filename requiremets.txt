@@ -1,11 +1,3 @@
 streamlit
 pandas
 mysql-connector-python
-plotly
-scikit-learn
-lightgbmstreamlit
-pandas
-mysql-connector-python
-plotly
-scikit-learn
-lightgbm
